@@ -8,7 +8,7 @@ sudo ./glsl1 sdfReflection_2_refraction.frag
 ```
 
 ## 操作方法isPaused
-WASDで水平移動
-SpaceでジャンプisPaused
-マウスで視点移動
-ESCで一時停止(マウスカーソル解放)
+* WASDで水平移動
+* Spaceでジャンプ
+* マウスで視点移動
+* ESCで一時停止(マウスカーソル解放)
