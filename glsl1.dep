@@ -1,0 +1,3 @@
+glsl.o: glsl.cpp glsl.h
+main.o: main.cpp glsl.h trackball.h
+trackball.o: trackball.cpp trackball.h
