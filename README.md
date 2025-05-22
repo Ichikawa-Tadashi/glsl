@@ -9,7 +9,7 @@ make
 sudo ./glsl1 sdfReflection_2_refraction.frag
 ```
 
-## 操作方法isPaused
+## 操作方法
 * WASDで水平移動
 * Spaceでジャンプ
 * マウスで視点移動
